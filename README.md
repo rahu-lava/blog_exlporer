@@ -16,8 +16,9 @@ Blog Explorer is an engaging Flutter application that fetches and displays a lis
 ## Screenshots
 
 ### Blog List View
-![Blog List](screenshots/blog_list.png)
+<img src="https://github.com/user-attachments/assets/2e013499-f400-4722-b261-bf45375354c8" width="300" alt="Blog List">
 
 ### Blog Detail View
-![Blog Detail](screenshots/blog_detail.png)
+<img src="https://github.com/user-attachments/assets/da40e090-d79f-48d2-bcc1-f2176376e190" width="300" alt="Blog Detail">
+
 
