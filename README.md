@@ -1,16 +1,23 @@
-# blog_exlporer
+# Blog Explorer
 
-A new Flutter project.
+Blog Explorer is an engaging Flutter application that fetches and displays a list of blogs from a RESTful API. The app provides users with interactive features to explore and engage with the blogs.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **API Integration**: Fetch data from the provided API.
+- **Blog List View**: Display a list of blogs with titles and images.
+- **Detailed Blog View**: Show full details of a selected blog, including its title and image.
+- **Navigation**: Navigate between the blog list view and the detailed blog view.
+- **Interactive Features**: Allow users to mark a blog as a favorite.
+- **State Management**: Manage the app's state efficiently using `Bloc`.
+- **Error Handling**: Gracefully handle cases where the API is unavailable or returns an error.
+- **UI/UX Design**: Create an attractive and user-friendly UI/UX design.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Blog List View
+![Blog List](screenshots/blog_list.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Blog Detail View
+![Blog Detail](screenshots/blog_detail.png)
+
